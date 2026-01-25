@@ -19,16 +19,14 @@ def get_sum(a, b):
     """
     # sum = 0
     # for i in range(min(a, b), max(a, b) + 1):
-        # print(f"a:{a},b: {b}")
-        # if a == b:
-            # return a
-        # sum += i
-        # print(f"sum: {sum}, i = {i}")
+    # print(f"a:{a},b: {b}")
+    # if a == b:
+    # return a
+    # sum += i
+    # print(f"sum: {sum}, i = {i}")
 
     # return sum
-    return sum(range(min(a,b), (max(a,b) + 1)))
-
-
+    return sum(range(min(a, b), (max(a, b) + 1)))
 
 
 print(get_sum(1, 0))
@@ -36,4 +34,4 @@ print(get_sum(1, 2))
 print(get_sum(0, 1))
 print(get_sum(-1, 0))
 print(get_sum(-1, 2))
-print(get_sum(2,2))
+print(get_sum(2, 2))

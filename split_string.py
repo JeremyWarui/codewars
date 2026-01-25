@@ -4,6 +4,7 @@
 
 str = "abcde"
 
+
 def split_string(str):
     """function that splits strings into even elements from the string"""
     # 1. loop through the string to split after two characters
@@ -12,9 +13,9 @@ def split_string(str):
     i = 0
     if len(str) % 2 != 0:
         str += "_"
-    
+
     while i < len(str):
-        pair = str[i: i+2]
+        pair = str[i : i + 2]
         pairs.append(pair)
         i += 2
 

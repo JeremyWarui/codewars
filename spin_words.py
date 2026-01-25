@@ -1,7 +1,7 @@
 def spin_words(sentence):
     # Your code goes here
     words = sentence.split()
-    output_words = [ word[::-1] if len(word) >= 5 else word for word in words ]
+    output_words = [word[::-1] if len(word) >= 5 else word for word in words]
     # for word in words:
     #     if len(word) >= 5:
     #         output_words.append(word[::-1])

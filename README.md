@@ -10,6 +10,7 @@ This repository contains solutions to various Codewars problems. Each file below
 - **spin_words.py** – Solution to the "Spin Words" problem
 - **split_string.py** – Solution to the "Split String" problem
 - **square_numbers.py** – Solution to the "Square Numbers" problem
+- **population_growth.py** – Solution to the "Growth of a Population" problem
 
 ---
 
