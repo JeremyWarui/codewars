@@ -4,8 +4,10 @@ This repository contains solutions to various Codewars problems. Each file below
 
 ## Solutions List
 
+
 - **get_sum.py** – Solution to the "Get Sum" problem
 - **is_leap.py** – Solution to the "Is Leap Year" problem
+- **is_triangle.py** – Solution to the "Is Triangle" problem
 - **sort_nums.py** – Solution to the "Sort Numbers" problem
 - **spin_words.py** – Solution to the "Spin Words" problem
 - **split_string.py** – Solution to the "Split String" problem
