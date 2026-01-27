@@ -1,8 +1,6 @@
 """
-Docstring for cakes
+Program that returns no of cakes on can bake given the recipe and the available ingredients required to bake the cakes.
 """
-
-import math
 
 
 def cakes(recipe, available):

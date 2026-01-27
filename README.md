@@ -4,7 +4,7 @@ This repository contains solutions to various Codewars problems. Each file below
 
 ## Solutions List
 
-
+- **cakes.py** – Solution to the "Cakes" (maximum cakes from ingredients) problem
 - **get_sum.py** – Solution to the "Get Sum" problem
 - **is_leap.py** – Solution to the "Is Leap Year" problem
 - **is_triangle.py** – Solution to the "Is Triangle" problem
