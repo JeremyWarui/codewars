@@ -53,8 +53,7 @@ def alphabet_position(text):
     # return " ".join(map(str, result))
 
     result = [
-        # (ord(letter.lower()) - ord("a") + 1) for letter in text if letter.isalpha()
-        (ord(letter) - ord('a') + 1) for letter in text.lower() if letter.isalpha()
+        (ord(letter) - ord("a") + 1) for letter in text.lower() if letter.isalpha()
     ]
     # print(result)
     return " ".join(map(str, result))
