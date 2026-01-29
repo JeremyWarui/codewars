@@ -2,6 +2,7 @@
 
 This repository contains solutions to various Codewars problems. Each file below corresponds to a specific problem solution:
 
+
 ## Solutions List
 
 - **alphabet_position.py** – Solution to the "Replace With Alphabet Position" problem
@@ -14,6 +15,7 @@ This repository contains solutions to various Codewars problems. Each file below
 - **split_string.py** – Solution to the "Split String" problem
 - **square_numbers.py** – Solution to the "Square Numbers" problem
 - **population_growth.py** – Solution to the "Growth of a Population" problem
+- **which_are.py** – Solution to the "Which are in?" (substring matching) problem
 
 ---
 

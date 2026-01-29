@@ -28,13 +28,21 @@ def in_array(array1, array2):
     # your code
     #  lets try:
     #  sorted, then we  try using checking substrings(string.contains)
-    result = []
+    # result = []
+    # for word in array1:
+    #     for sub in array2:
+    #         if word in sub:
+    #             result.append(word)
+    #             break
+    # return sorted(result)
+    # using sets for unique strings
+    results = set()
+
     for word in array1:
         for sub in array2:
             if word in sub:
-                result.append(word)
-                break
-    return sorted(result)
+                results.add(word)
+    return sorted(results)
 
 
 a1 = ["cat", "dog", "bird"]
