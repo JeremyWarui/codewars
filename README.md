@@ -3,6 +3,7 @@
 This repository contains solutions to various Codewars problems. Each file below corresponds to a specific problem solution:
 
 
+
 ## Solutions List
 
 - **alphabet_position.py** – Solution to the "Replace With Alphabet Position" problem
@@ -16,6 +17,7 @@ This repository contains solutions to various Codewars problems. Each file below
 - **square_numbers.py** – Solution to the "Square Numbers" problem
 - **population_growth.py** – Solution to the "Growth of a Population" problem
 - **which_are.py** – Solution to the "Which are in?" (substring matching) problem
+- **roman_encoder.py** – Solution to the "Integer to Roman Numeral" conversion problem
 
 ---
 
